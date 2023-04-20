@@ -2,7 +2,7 @@
 
 このプログラムは卒論でImage Impaingingの修整が施された画像をデータセットとして大量生成するために作ったプログラムです.
 <p align="center">
-  <img src=![data_6](https://user-images.githubusercontent.com/124670782/233430120-32f0d71a-1192-4643-b6ad-08db58fa715c.png) />
+  <img src="https://user-images.githubusercontent.com/124670782/233430120-32f0d71a-1192-4643-b6ad-08db58fa715c.png" />
 </p>
 
 

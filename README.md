@@ -1,6 +1,7 @@
 # Make_Impainting_Data
 
 このプログラムは卒論でImage Impaingingの修整が施された画像をデータセットとして大量生成するために作ったプログラムです.
+![data_6](https://user-images.githubusercontent.com/124670782/233430120-32f0d71a-1192-4643-b6ad-08db58fa715c.png)
 
 ## 実行手順  
 * [GitHub Pages]<https://github.com/JiahuiYu/generative_inpainting>のクローン, 環境構築を行う  

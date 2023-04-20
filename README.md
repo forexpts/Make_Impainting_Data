@@ -15,4 +15,4 @@
 * 修正前の画像が保存されているディレクトリの構造によりMyDatasetを適宜書き換える  
 * そのディレクトリへのパス:INPUT_IMAGE_DIR_PATH, INPUT_IMAGE_LIST_FILE, DESTINATION_DIR_PATHを修整  
 * 
-"""python make_impainting_data.py"""
+'''python make_impainting_data.py'''
